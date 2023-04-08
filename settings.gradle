@@ -1,0 +1,4 @@
+include 'Cart-subdomain'
+include 'Clients-subdomain'
+include  'Cookie-subdomain'
+include 'Api-gateway'
